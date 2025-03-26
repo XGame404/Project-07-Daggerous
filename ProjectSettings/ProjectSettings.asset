@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Drinfinite
+  productName: Daggerous
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -945,7 +945,7 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: c4f2f50c-e5e5-4bc8-9e62-d3c6dfd2aec0
+  cloudProjectId: 505726a1-5023-4154-bd88-12d68188b430
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Daggerous
